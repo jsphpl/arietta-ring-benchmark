@@ -12,7 +12,9 @@ Using an oscilloscope, we can now determine the frequency at which this i/o pair
 
 ## Test Setup and results
 
-For instructions on the test setup and a glance on how the Arietta performs, head over to [my FabAcademy page](http://archive.fabacademy.org/archives/2017/fablaberfindergarden/students/260/fabacademy/week-8/).
+Test code for both C and Python APIs is placed in `benchmark.c` and `benchmark.py`, respectively.
+
+For detailed instructions on the test setup and a glance on how the Arietta performs, head over to [my FabAcademy page](http://archive.fabacademy.org/archives/2017/fablaberfindergarden/students/260/fabacademy/week-8/).
 
 ## License
 
